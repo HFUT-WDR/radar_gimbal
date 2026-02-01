@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/USER/MOTOR/motor.c" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/USER/MOTOR/motor.h" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/USER/application/CAN_receive.c" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/USER/application/INS_task.c" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/USER/application/INS_task.h" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/USER/application/auto_shoot_new.c" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/USER/application/auto_shoot_new.h" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/USER/application/calibrate_task.c" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/USER/application/detect_task.h" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/USER/application/gimbal_behaviour.c" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/USER/application/gimbal_behaviour.h" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/USER/application/gimbal_task.c" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/USER/application/gimbal_task.h" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/USER/application/remote_control.c" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/USER/application/remote_control.h" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/USER/components/algorithm/AHRS.h" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/USER/components/algorithm/user_lib.h" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/USER/components/controller/Data_Process.c" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/USER/components/controller/pid.c" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/USER/components/controller/pid.h" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/USER/components/support/CRC8_CRC16.c" charset="GB2312" />
+  </component>
+</project>
